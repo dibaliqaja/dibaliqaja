@@ -37,7 +37,6 @@ Hello. I'm Iqbal, I'm a person with strong passion to learn new things. Currentl
 </a>
 
 <br/><br/>
-
 Let's connect with me! 🚀 
 
 
