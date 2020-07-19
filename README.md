@@ -2,8 +2,6 @@
 <img align="right" alt="GIF" width="5%" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"/>
 
 <br/>
-<br/>
-<br/>
 
 ### Hey 👋, I'm Iqbal !
 
