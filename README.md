@@ -41,6 +41,5 @@ Let's connect with me! 🚀
 
 <!-- <img alt="GIF" width="38%" src="https://camo.githubusercontent.com/4a1373646ed18da95a6d86d4131e0f4ead0236fd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" /> -->
 
-<img alt="GIF" width="10%" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"/>
-<img alt="GIF" width="10%" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"/>
-<img alt="GIF" width="10%" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"/>
+<img align="left" alt="GIF" width="5%" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"/>
+<img align="right" alt="GIF" width="5%" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"/>
