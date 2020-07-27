@@ -13,7 +13,7 @@ Hello. <b>I'm Iqbal</b>, from Indonesia 🇮🇩, I'm a person with strong passi
     **[LinkedIn](https://www.linkedin.com/in/dibaliqaja/)**, 
     **[Instagram](https://www.instagram.com/dibaliqaja/)** 
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/dibaliqaja) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=dibaliqaja.visitor-badge)](https://github.com/dibaliqaja) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dibaliqaja)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/dibaliqaja) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dibaliqaja)
 
 <a href="https://www.linkedin.com/in/dibaliqaja">
   <img align="left" alt="Iqbal's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
