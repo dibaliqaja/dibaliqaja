@@ -15,24 +15,24 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/dibaliqaja) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dibaliqaja)
 
+Let's connect with me! 🚀 
+<br/><br/>
 <a href="https://facebook.com/dibaliqaja" target="_blank">
    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/dibaliqaja" target="_blank">
    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/dibaliqaja" target="_blank">
-   <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 <a href="https://medium.com/@dibaliqaja" target="_blank">
    <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://instagram.com/dibaliqaja" target="_blank">
+   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://dribbble.com/dibaliqaja" target="_blank">
    <img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
 
-<br/>
-Let's connect with me! 🚀 
 
 <details>
 <summary> <b> My GitHub Statistic 😎🤙</b> <i>(click to expand!)</i> </summary>
