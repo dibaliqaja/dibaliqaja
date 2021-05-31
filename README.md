@@ -2,7 +2,7 @@
 
 **Glad to see you here!** :star_struck:
 
-Hello. <b>I'm Iqbal</b>, from Indonesia 🇮🇩, I'm a person with strong passion to learn new things 🧗‍♂️. Currently, I'm interested and learning about Software Development. Experienced for approximately more 1 year and always try to continue to improve my skills. And I love being a Software Engineer 👨‍💻. The green dots on my [**GitHub**](https://github.com/dibaliqaja?tab=repositories) represent my journey :running_man:
+<b>I'm Software Engineer</b>, from Indonesia 🇮🇩, I'm a person with strong passion to learn new things 🧗‍♂️. Currently, I'm interested and learning about Software Development. Experienced for approximately more 2 year and always try to continue to improve my skills. And I love being a Software Engineer 👨‍💻. The green dots on my [**GitHub**](https://github.com/dibaliqaja?tab=repositories) represent my journey :running_man:
 
 - 🧠 Growth and beginner's mindset also curiousity
 - 🌱 I’m currently learning about Software Development
@@ -15,20 +15,20 @@ Hello. <b>I'm Iqbal</b>, from Indonesia 🇮🇩, I'm a person with strong passi
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/dibaliqaja) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dibaliqaja)
 
-<a href="https://www.linkedin.com/in/dibaliqaja">
-  <img align="left" alt="Iqbal's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://github.com/dibaliqaja" target="_blank">
+   <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a> 
+<a href="https://twitter.com/dibaliqaja" target="_blank">
+   <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a> 
+<a href="https://www.linkedin.com/in/dibaliqaja" target="_blank">
+   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+<a href="https://medium.com/@dibaliqaja" target="_blank">
+   <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/dibaliqaja">
-  <img align="left" alt="Iqbal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/dibaliqaja">
-  <img align="left" alt="Iqbal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://dribbble.com/dibaliqaja">
-  <img align="left" alt="Iqbal's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-</a>
-<a href="https://medium.com/@dibaliqaja">
-  <img align="left" alt="Iqbal's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://dribbble.com/dibaliqaja" target="_blank">
+   <img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -38,6 +38,6 @@ Let's connect with me! 🚀
 <summary> <b> My GitHub Statistic 😎🤙</b> <i>(click to expand!)</i> </summary>
 <br/>
 
-![Iqbal's github stats](https://github-readme-stats.vercel.app/api?username=dibaliqaja)
+![Iqbal's github stats](https://github-readme-stats.vercel.app/api?username=dibaliqaja&show_icons=true&count_private=true&theme=dark)
 
 </details>
