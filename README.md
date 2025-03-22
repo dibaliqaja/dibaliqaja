@@ -41,9 +41,6 @@ And I love being a Software Engineer 👨‍💻. The green dots on my [**GitHub
 <a href="https://dev.to/dibaliqaja" target="_blank">
    <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
-<a href="https://steamcommunity.com/id/zerdxc" target="_blank">
-   <img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
-</a>
 
 <br>
 <br>
